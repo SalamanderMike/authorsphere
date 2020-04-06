@@ -1,0 +1,9 @@
+{
+  "name": "authorsphere",
+  "version": "0.0.1",
+  "description": "website tool for authors",
+  "main": "app.js",
+  "repository": "git@github.com:SalamanderMike/authorsphere.git",
+  "author": "Michael McClure",
+  "license": "MIT"
+}
